@@ -36,6 +36,11 @@ Para que la prueba sea considerada válida, se deben cumplir los siguientes punt
 - **medio:** Medio utilizado para la venta.
 - **monto_venta:** Monto de la venta asociada a ese medio.
 
+### Base 3: Productos
+
+- **id_producto:** Identificador del producto.
+- **nombre_producto:** Nombre del producto.
+
 #### Tipos de Medios
 
 - **Directo:** Clientes que ingresan al sitio directamente utilizando la URL.
@@ -71,6 +76,10 @@ La gerencia plantea establecer una meta de ventas para los meses de enero, febre
 
 - ¿Es correcto utilizar el promedio de ventas del año 2024 para fijar esta meta?
 - ¿Si consideras que no es correcto, que propuesta plantearías?.
+
+### Pregunta 4
+
+Se solicita identificar el top 10 productos más vendidos en los últimos 3 meses del año 2024 para tenerlos identificados de cara al 2025. Se debe entregar el listado con el id, el nombre del producto y la venta asociada.
 
 ### BONO OPCIONAL
 
