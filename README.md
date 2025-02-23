@@ -49,12 +49,12 @@ Para que la prueba sea considerada válida, se deben cumplir los siguientes punt
 
 ### Pregunta 1
 
-Durante la semana del 10 al 16 de junio se observa un aumento en el presupuesto destinado a medios, a pesar de no existir una campaña específica para esos días y que presupuesto no se ha modificado y estaba definido para el mes. El equipo de marketing indica que el aumento esta dado principalmente por la inversión asociada a los medios de conversión (Inversión asociada a la cantidad de venta):
+Durante la semana del 10 al 16 de junio se observa un aumento en el presupuesto destinado a medios, a pesar de no existir una campaña específica para esos días y que el presupuesto no se ha modificado y estaba definido para el mes. El equipo de marketing indica que el aumento esta dado principalmente por la inversión asociada a los medios de conversión (Para estos casos la inversión es dependiente de la venta):
 
 - ¿Existe realmente un aumento en la inversión?
 - ¿Se dispone de información suficiente para confirmarlo?
-- En caso afirmativo, ¿a qué se debe este incremento?
-- ¿Qué respuesta se le proporcionaría al equipo de marketing?
+- En caso afirmativo, ¿a qué se debe este incremento siendo que el equipo de marketing no esperaba un aumento de la inversión?
+- ¿Qué respuesta le proporcionaría al equipo de marketing?
 
 ### Pregunta 2
 
@@ -70,7 +70,7 @@ El gerente de ecommerce ha reportado una caída significativa en las ventas del 
 La gerencia plantea establecer una meta de ventas para los meses de enero, febrero y marzo utilizando como referencia el promedio de ventas del año 2024. Se pide:
 
 - ¿Es correcto utilizar el promedio de ventas del año 2024 para fijar esta meta?
-- Justifique su respuesta.
+- ¿Si consideras que no es correcto, que propuesta plantearías?.
 
 ### BONO OPCIONAL
 
