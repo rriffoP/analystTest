@@ -49,7 +49,7 @@ Para que la prueba sea considerada válida, se deben cumplir los siguientes punt
 
 ### Pregunta 1
 
-Durante la semana del 10 al 16 de junio se observa un aumento en el presupuesto destinado a medios, a pesar de no existir una campaña específica para esos días. El equipo de marketing requiere analizar:
+Durante la semana del 10 al 16 de junio se observa un aumento en el presupuesto destinado a medios, a pesar de no existir una campaña específica para esos días y que presupuesto no se ha modificado y estaba definido para el mes. El equipo de marketing indica que el aumento esta dado principalmente por la inversión asociada a los medios de conversión (Inversión asociada a la cantidad de venta):
 
 - ¿Existe realmente un aumento en la inversión?
 - ¿Se dispone de información suficiente para confirmarlo?
