@@ -13,7 +13,7 @@ Para que la prueba sea considerada válida, se deben cumplir los siguientes punt
 1. **Carga de datos:** Las bases de datos deben cargarse en Python utilizando la librería `sqlite3`.
 2. **Extracción de información:** Se debe realizar la extracción de la información necesaria para cada caso mediante consultas en SQL usando la librería mencionada.
 3. **Entrega funcional:** Todas las consultas deben quedar en un archivo `.py` que sea funcional y esté listo para ejecutarse.
-4. **Análisis complementario:** Aunque la extracción y el ajuste de los datos se deben hacer en SQL, no es obligatorio que el 100% del análisis se realice en Python. Es válido extraer las tablas en SQL y, posteriormente, trabajar los datos en Excel para generar gráficos y resultados que se adjunten en un documento final.
+4. **Análisis complementario:** Aunque la extracción y el ajuste de los datos se deben hacer en SQL, no es obligatorio que el 100% del análisis se realice dentro de Python. Es válido extraer las tablas en SQL y, posteriormente, trabajar los datos en Excel para generar gráficos y resultados que se adjunten en un documento final.
 
 > **Nota:** Las bases de datos contienen datos ficticios y simulados.
 
