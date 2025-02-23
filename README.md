@@ -75,7 +75,7 @@ La gerencia plantea establecer una meta de ventas para los meses de enero, febre
 ### BONO OPCIONAL
 
 1. Estas bases son simuladas ¿te encontraste con datos extraños o incongruentes durante tu trabajo con ellas? ¿Por qué consideras que son extraños?
-2. ¿Podrias indicar algo más sobre las ventas de esta compañía?
+2. ¿Podrías indicar algo más sobre las ventas de esta compañía?
 
 ---
 
